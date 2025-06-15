@@ -1,0 +1,60 @@
+{
+  "group": "Bachelor 1 A",
+  "date": "2025-06-15",
+  "timetable": [
+    {
+      "time": "08:00-10:00",
+      "lundi": "Introduction au droit (Mbock, Bachelor 1 A, Amphi No name 5 ( Salle d'info ))",
+      "mardi": "Introduction au droit (Mbock, Bachelor 1 A, Amphi No name 5 ( Salle d'info ))",
+      "mercredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 A, Amphi No name 1 ( academie ))",
+      "jeudi": "Anglais des affaires (Momo Anita, Bachelor 1 A, Amphi No name 5 ( Salle d'info ))",
+      "vendredi": "Anglais des affaires (Momo Anita, Bachelor 1 A, Amphi No name 3 ( Grande Salle ))"
+    },
+    {
+      "time": "10:00-12:00",
+      "lundi": "Expression Ecrite et Orale (Epangue, Bachelor 1 A, Amphi No name 4 ( Face fontaine ))",
+      "mardi": "Introduction au droit (Mbock, Bachelor 1 A, Amphi No name 4 ( Face fontaine ))",
+      "mercredi": "Expression Ecrite et Orale (Epangue, Bachelor 1 A, Amphi Ndiki)",
+      "jeudi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 A, Amphi No name 2 ( Reception ))",
+      "vendredi": "Base de l'administration Windows (Ngue, Bachelor 1 A, Amphi No name 3 ( Grande Salle ))"
+    },
+    {
+      "time": "13:00-15:00",
+      "lundi": "Cyber Securite (Mme Tchouate, Bachelor 1 A, Amphi No name 2 ( Reception ))",
+      "mardi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 1 A, Amphi Ndiki)",
+      "mercredi": "Expression Ecrite et Orale (Epangue, Bachelor 1 A, Amphi No name 4 ( Face fontaine ))",
+      "jeudi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 1 A, Amphi No name 2 ( Reception ))",
+      "vendredi": "Introduction au droit (Mbock, Bachelor 1 A, Amphi No name 1 ( academie ))"
+    },
+    {
+      "time": "15:00-17:00",
+      "lundi": "Base de l'administration Windows (Ngue, Bachelor 1 A, Amphi No name 3 ( Grande Salle ))",
+      "mardi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 A, Amphi No name 5 ( Salle d'info ))",
+      "mercredi": "Cyber Securite (Mme Tchouate, Bachelor 1 A, Amphi Ndiki)",
+      "jeudi": "Vb Excel (Ngouma, Bachelor 1 A, Amphi No name 1 ( academie ))",
+      "vendredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 A, Amphi No name 5 ( Salle d'info ))"
+    }
+  ],
+  "days": [
+    {
+      "name": "lundi",
+      "display": "Lundi 16"
+    },
+    {
+      "name": "mardi",
+      "display": "Mardi 17"
+    },
+    {
+      "name": "mercredi",
+      "display": "Mercredi 18"
+    },
+    {
+      "name": "jeudi",
+      "display": "Jeudi 19"
+    },
+    {
+      "name": "vendredi",
+      "display": "Vendredi 20"
+    }
+  ]
+}

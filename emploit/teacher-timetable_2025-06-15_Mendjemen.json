@@ -1,0 +1,133 @@
+{
+  "teacher": "Mendjemen",
+  "courses": [
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "15:00-17:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "08:00-10:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 1 ( academie )"
+    },
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "10:00-12:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "15:00-17:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "08:00-10:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 2",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "08:00-10:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 2",
+      "room": "Amphi Konsamba"
+    },
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "13:00-15:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 B",
+      "room": "Amphi Ndiki"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "08:00-10:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 B",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "10:00-12:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 1 B",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "13:00-15:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 3",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "10:00-12:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 3",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "13:00-15:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Bachelor 3",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "13:00-15:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Master 1",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "10:00-12:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Master 2",
+      "room": "Amphi No name 1 ( academie )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "08:00-10:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Master 2",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "13:00-15:00",
+      "subject": "Developpement Web (HTML, CSS,JS)",
+      "group": "Master 2",
+      "room": "Amphi No name 4 ( Face fontaine )"
+    }
+  ]
+}

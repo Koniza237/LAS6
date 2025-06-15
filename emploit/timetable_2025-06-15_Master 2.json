@@ -1,0 +1,60 @@
+{
+  "group": "Master 2",
+  "date": "2025-06-15",
+  "timetable": [
+    {
+      "time": "08:00-10:00",
+      "lundi": "Base de l'administration Windows (Ngue, Master 2, Amphi No name 4 ( Face fontaine ))",
+      "mardi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Master 2, Amphi No name 2 ( Reception ))",
+      "mercredi": "Cyber Securite (Mme Tchouate, Master 2, Amphi No name 4 ( Face fontaine ))",
+      "jeudi": "Vb Excel (Ngouma, Master 2, Amphi Ndiki)",
+      "vendredi": "Introduction au droit (Mbock, Master 2, Amphi Ndiki)"
+    },
+    {
+      "time": "10:00-12:00",
+      "lundi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Master 2, Amphi No name 1 ( academie ))",
+      "mardi": "Vb Excel (Ngouma, Master 2, Amphi No name 1 ( academie ))",
+      "mercredi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 2, Amphi Konsamba)",
+      "jeudi": "Introduction au droit (Mbock, Master 2, Amphi No name 4 ( Face fontaine ))",
+      "vendredi": "Anglais des affaires (Momo Anita, Master 2, Amphi Ndiki)"
+    },
+    {
+      "time": "13:00-15:00",
+      "lundi": "Base de l'administration Windows (Ngue, Master 2, Amphi No name 1 ( academie ))",
+      "mardi": "Anglais des affaires (Momo Anita, Master 2, Amphi No name 3 ( Grande Salle ))",
+      "mercredi": "Vb Excel (Ngouma, Master 2, Amphi Konsamba)",
+      "jeudi": "Anglais des affaires (Momo Anita, Master 2, Amphi Konsamba)",
+      "vendredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Master 2, Amphi No name 4 ( Face fontaine ))"
+    },
+    {
+      "time": "15:00-17:00",
+      "lundi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 2, Amphi Konsamba)",
+      "mardi": "Base de l'administration Windows (Ngue, Master 2, Amphi No name 4 ( Face fontaine ))",
+      "mercredi": "Anglais des affaires (Momo Anita, Master 2, Amphi No name 1 ( academie ))",
+      "jeudi": "Base de l'administration Windows (Ngue, Master 2, Amphi No name 4 ( Face fontaine ))",
+      "vendredi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 2, Amphi Konsamba)"
+    }
+  ],
+  "days": [
+    {
+      "name": "lundi",
+      "display": "Lundi 16"
+    },
+    {
+      "name": "mardi",
+      "display": "Mardi 17"
+    },
+    {
+      "name": "mercredi",
+      "display": "Mercredi 18"
+    },
+    {
+      "name": "jeudi",
+      "display": "Jeudi 19"
+    },
+    {
+      "name": "vendredi",
+      "display": "Vendredi 20"
+    }
+  ]
+}

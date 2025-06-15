@@ -1,0 +1,101 @@
+{
+  "teacher": "Mbock",
+  "courses": [
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "08:00-10:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "08:00-10:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "10:00-12:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 4 ( Face fontaine )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "13:00-15:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 1 ( academie )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "10:00-12:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 2",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "15:00-17:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 1 B",
+      "room": "Amphi Ndiki"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "15:00-17:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 1 B",
+      "room": "Amphi No name 4 ( Face fontaine )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "13:00-15:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 3",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "15:00-17:00",
+      "subject": "Introduction au droit",
+      "group": "Bachelor 3",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "10:00-12:00",
+      "subject": "Introduction au droit",
+      "group": "Master 1",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "10:00-12:00",
+      "subject": "Introduction au droit",
+      "group": "Master 2",
+      "room": "Amphi No name 4 ( Face fontaine )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "08:00-10:00",
+      "subject": "Introduction au droit",
+      "group": "Master 2",
+      "room": "Amphi Ndiki"
+    }
+  ]
+}

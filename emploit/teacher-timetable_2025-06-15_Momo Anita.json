@@ -1,0 +1,117 @@
+{
+  "teacher": "Momo Anita",
+  "courses": [
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "08:00-10:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 5 ( Salle d'info )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "08:00-10:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 1 A",
+      "room": "Amphi No name 3 ( Grande Salle )"
+    },
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "13:00-15:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 2",
+      "room": "Amphi No name 3 ( Grande Salle )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "13:00-15:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 2",
+      "room": "Amphi No name 3 ( Grande Salle )"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "15:00-17:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 2",
+      "room": "Amphi No name 2 ( Reception )"
+    },
+    {
+      "day": "lundi",
+      "dayDisplay": "Lundi 16",
+      "time": "15:00-17:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 1 B",
+      "room": "Amphi No name 1 ( academie )"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "10:00-12:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 1 B",
+      "room": "Amphi No name 4 ( Face fontaine )"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "13:00-15:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 1 B",
+      "room": "Amphi Ndiki"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "08:00-10:00",
+      "subject": "Anglais des affaires",
+      "group": "Bachelor 3",
+      "room": "Amphi Konsamba"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "08:00-10:00",
+      "subject": "Anglais des affaires",
+      "group": "Master 1",
+      "room": "Amphi No name 3 ( Grande Salle )"
+    },
+    {
+      "day": "mardi",
+      "dayDisplay": "Mardi 17",
+      "time": "13:00-15:00",
+      "subject": "Anglais des affaires",
+      "group": "Master 2",
+      "room": "Amphi No name 3 ( Grande Salle )"
+    },
+    {
+      "day": "mercredi",
+      "dayDisplay": "Mercredi 18",
+      "time": "15:00-17:00",
+      "subject": "Anglais des affaires",
+      "group": "Master 2",
+      "room": "Amphi No name 1 ( academie )"
+    },
+    {
+      "day": "jeudi",
+      "dayDisplay": "Jeudi 19",
+      "time": "13:00-15:00",
+      "subject": "Anglais des affaires",
+      "group": "Master 2",
+      "room": "Amphi Konsamba"
+    },
+    {
+      "day": "vendredi",
+      "dayDisplay": "Vendredi 20",
+      "time": "10:00-12:00",
+      "subject": "Anglais des affaires",
+      "group": "Master 2",
+      "room": "Amphi Ndiki"
+    }
+  ]
+}

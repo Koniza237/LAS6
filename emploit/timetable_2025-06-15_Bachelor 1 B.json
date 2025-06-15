@@ -1,0 +1,60 @@
+{
+  "group": "Bachelor 1 B",
+  "date": "2025-06-15",
+  "timetable": [
+    {
+      "time": "08:00-10:00",
+      "lundi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 1 B, Amphi No name 1 ( academie ))",
+      "mardi": "Expression Ecrite et Orale (Epangue, Bachelor 1 B, Amphi No name 1 ( academie ))",
+      "mercredi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 1 B, Amphi No name 5 ( Salle d'info ))",
+      "jeudi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 1 B, Amphi No name 1 ( academie ))",
+      "vendredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 B, Amphi No name 2 ( Reception ))"
+    },
+    {
+      "time": "10:00-12:00",
+      "lundi": "Base de l'administration Windows (Ngue, Bachelor 1 B, Amphi Ndiki)",
+      "mardi": "Expression Ecrite et Orale (Epangue, Bachelor 1 B, Amphi Konsamba)",
+      "mercredi": "Anglais des affaires (Momo Anita, Bachelor 1 B, Amphi No name 4 ( Face fontaine ))",
+      "jeudi": "Base de l'administration Windows (Ngue, Bachelor 1 B, Amphi No name 5 ( Salle d'info ))",
+      "vendredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 B, Amphi No name 2 ( Reception ))"
+    },
+    {
+      "time": "13:00-15:00",
+      "lundi": "Expression Ecrite et Orale (Epangue, Bachelor 1 B, Amphi No name 4 ( Face fontaine ))",
+      "mardi": "Base de l'administration Windows (Ngue, Bachelor 1 B, Amphi Konsamba)",
+      "mercredi": "Anglais des affaires (Momo Anita, Bachelor 1 B, Amphi Ndiki)",
+      "jeudi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 1 B, Amphi Ndiki)",
+      "vendredi": "Cyber Securite (Mme Tchouate, Bachelor 1 B, Amphi No name 2 ( Reception ))"
+    },
+    {
+      "time": "15:00-17:00",
+      "lundi": "Anglais des affaires (Momo Anita, Bachelor 1 B, Amphi No name 1 ( academie ))",
+      "mardi": "Introduction au droit (Mbock, Bachelor 1 B, Amphi Ndiki)",
+      "mercredi": "Introduction au droit (Mbock, Bachelor 1 B, Amphi No name 4 ( Face fontaine ))",
+      "jeudi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 1 B, Amphi No name 5 ( Salle d'info ))",
+      "vendredi": "Base de l'administration Windows (Ngue, Bachelor 1 B, Amphi Ndiki)"
+    }
+  ],
+  "days": [
+    {
+      "name": "lundi",
+      "display": "Lundi 16"
+    },
+    {
+      "name": "mardi",
+      "display": "Mardi 17"
+    },
+    {
+      "name": "mercredi",
+      "display": "Mercredi 18"
+    },
+    {
+      "name": "jeudi",
+      "display": "Jeudi 19"
+    },
+    {
+      "name": "vendredi",
+      "display": "Vendredi 20"
+    }
+  ]
+}

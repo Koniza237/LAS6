@@ -1,0 +1,60 @@
+{
+  "group": "Master 1",
+  "date": "2025-06-15",
+  "timetable": [
+    {
+      "time": "08:00-10:00",
+      "lundi": "Expression Ecrite et Orale (Epangue, Master 1, Amphi Konsamba)",
+      "mardi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 1, Amphi No name 3 ( Grande Salle ))",
+      "mercredi": "Anglais des affaires (Momo Anita, Master 1, Amphi No name 3 ( Grande Salle ))",
+      "jeudi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 4 ( Face fontaine ))",
+      "vendredi": "Base de l'administration Windows (Ngue, Master 1, Amphi Konsamba)"
+    },
+    {
+      "time": "10:00-12:00",
+      "lundi": "Introduction au droit (Mbock, Master 1, Amphi No name 2 ( Reception ))",
+      "mardi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 1, Amphi Ndiki)",
+      "mercredi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 1 ( academie ))",
+      "jeudi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 1, Amphi Konsamba)",
+      "vendredi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 4 ( Face fontaine ))"
+    },
+    {
+      "time": "13:00-15:00",
+      "lundi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 1, Amphi Konsamba)",
+      "mardi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Master 1, Amphi No name 2 ( Reception ))",
+      "mercredi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 1 ( academie ))",
+      "jeudi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 4 ( Face fontaine ))",
+      "vendredi": "Bureautique (Word, Excel, PowePoint) (Segena, Master 1, Amphi Konsamba)"
+    },
+    {
+      "time": "15:00-17:00",
+      "lundi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 4 ( Face fontaine ))",
+      "mardi": "Cyber Securite (Mme Tchouate, Master 1, Amphi No name 2 ( Reception ))",
+      "mercredi": "Base de l'administration Windows (Ngue, Master 1, Amphi Konsamba)",
+      "jeudi": "Expression Ecrite et Orale (Epangue, Master 1, Amphi Konsamba)",
+      "vendredi": "Expression Ecrite et Orale (Epangue, Master 1, Amphi No name 3 ( Grande Salle ))"
+    }
+  ],
+  "days": [
+    {
+      "name": "lundi",
+      "display": "Lundi 16"
+    },
+    {
+      "name": "mardi",
+      "display": "Mardi 17"
+    },
+    {
+      "name": "mercredi",
+      "display": "Mercredi 18"
+    },
+    {
+      "name": "jeudi",
+      "display": "Jeudi 19"
+    },
+    {
+      "name": "vendredi",
+      "display": "Vendredi 20"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "group": "Bachelor 3",
+  "date": "2025-06-15",
+  "timetable": [
+    {
+      "time": "08:00-10:00",
+      "lundi": "Vb Excel (Ngouma, Bachelor 3, Amphi Ndiki)",
+      "mardi": "Anglais des affaires (Momo Anita, Bachelor 3, Amphi Konsamba)",
+      "mercredi": "Base de l'administration Windows (Ngue, Bachelor 3, Amphi Ndiki)",
+      "jeudi": "Expression Ecrite et Orale (Epangue, Bachelor 3, Amphi No name 3 ( Grande Salle ))",
+      "vendredi": "Cyber Securite (Mme Tchouate, Bachelor 3, Amphi No name 1 ( academie ))"
+    },
+    {
+      "time": "10:00-12:00",
+      "lundi": "Bureautique (Word, Excel, PowePoint) (Segena, Bachelor 3, Amphi No name 3 ( Grande Salle ))",
+      "mardi": "Base de l'administration Windows (Ngue, Bachelor 3, Amphi No name 5 ( Salle d'info ))",
+      "mercredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 3, Amphi No name 2 ( Reception ))",
+      "jeudi": "Cyber Securite (Mme Tchouate, Bachelor 3, Amphi Ndiki)",
+      "vendredi": "Vb Excel (Ngouma, Bachelor 3, Amphi Konsamba)"
+    },
+    {
+      "time": "13:00-15:00",
+      "lundi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 3, Amphi No name 5 ( Salle d'info ))",
+      "mardi": "Introduction au droit (Mbock, Bachelor 3, Amphi No name 5 ( Salle d'info ))",
+      "mercredi": "Developpement Web (HTML, CSS,JS) (Mendjemen, Bachelor 3, Amphi No name 2 ( Reception ))",
+      "jeudi": "Base de l'administration Windows (Ngue, Bachelor 3, Amphi No name 3 ( Grande Salle ))",
+      "vendredi": "Expression Ecrite et Orale (Epangue, Bachelor 3, Amphi Ndiki)"
+    },
+    {
+      "time": "15:00-17:00",
+      "lundi": "Vb Excel (Ngouma, Bachelor 3, Amphi No name 5 ( Salle d'info ))",
+      "mardi": "Vb Excel (Ngouma, Bachelor 3, Amphi Konsamba)",
+      "mercredi": "Expression Ecrite et Orale (Epangue, Bachelor 3, Amphi No name 2 ( Reception ))",
+      "jeudi": "Introduction au droit (Mbock, Bachelor 3, Amphi No name 2 ( Reception ))",
+      "vendredi": "Cyber Securite (Mme Tchouate, Bachelor 3, Amphi No name 4 ( Face fontaine ))"
+    }
+  ],
+  "days": [
+    {
+      "name": "lundi",
+      "display": "Lundi 16"
+    },
+    {
+      "name": "mardi",
+      "display": "Mardi 17"
+    },
+    {
+      "name": "mercredi",
+      "display": "Mercredi 18"
+    },
+    {
+      "name": "jeudi",
+      "display": "Jeudi 19"
+    },
+    {
+      "name": "vendredi",
+      "display": "Vendredi 20"
+    }
+  ]
+}
